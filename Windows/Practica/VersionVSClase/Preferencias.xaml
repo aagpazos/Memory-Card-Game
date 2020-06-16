@@ -1,0 +1,64 @@
+﻿<Window x:Class="VersionVSClase.Preferencias"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VersionVSClase"
+        mc:Ignorable="d"
+        Title="Preferencias" Height="450" Width="700">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row ="0" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <GroupBox Header="Cambiar numero de cartas" Margin="10,0">
+                <Grid>
+                    <Slider Name="sliderCartas" Margin="90,10" Minimum="6" Maximum="12" Width="150" TickFrequency="2" TickPlacement="BottomRight" IsSnapToTickEnabled="True" ValueChanged="SliderCartas_ValueChanged"/>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal">
+                        <Label Margin="90,30,0,0" Content="Cartas seleccionadas:" />
+                        <Label Margin="0,30,0,0">
+                            <Label.Content>
+                                <Binding ElementName="sliderCartas" Path="Value" />
+                            </Label.Content>
+                        </Label>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Grid.Column="1" Header="Cambiar segundos" Margin="10,0">
+                <Grid>
+                    <Slider Name="sliderTiempo" Margin="80,10" Minimum="0" Maximum="5" Width="130" TickFrequency="1" TickPlacement="BottomRight" IsSnapToTickEnabled="True" Value="5" ValueChanged="SliderTiempo_ValueChanged"/>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal">
+                        <Label Margin="80,30,0,0" Content="Segundos seleccionado:" />
+                        <Label Margin="0,30,0,0">
+                            <Label.Content>
+                                <Binding ElementName="sliderTiempo" Path="Value" />
+                            </Label.Content>
+                        </Label>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+
+
+        </Grid>
+
+        <ListView Grid.Row="1" Margin="10" Name="lista" SelectionChanged="lista_SelectionChanged" IsEnabled="False" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="NOMBRE" DisplayMemberBinding="{Binding nombreCarta}" />
+                    <GridViewColumn Header="ABIERTA" DisplayMemberBinding="{Binding abierta}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Name="Eliminar" Content="Eliminar Carta" Height="20" Margin="10,5" HorizontalAlignment="Left"  Grid.Row="2" IsEnabled="False" Click="Eliminar_Click"/>
+        <Button Name="Cerrar" Content="Cerrar" Height="20" HorizontalAlignment="Right" Margin="10,5"  Grid.Row="2" Click="Cerrar_Click"/>
+    </Grid>
+</Window>

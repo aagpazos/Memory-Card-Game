@@ -1,0 +1,463 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3AA35E0C237844E50012BDBA /* PanelController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AA35E0B237844E50012BDBA /* PanelController.xib */; };
+		3AE1CB51235A0FC3009D26D5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE1CB50235A0FC3009D26D5 /* AppDelegate.m */; };
+		3AE1CB53235A0FC6009D26D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AE1CB52235A0FC6009D26D5 /* Assets.xcassets */; };
+		3AE1CB56235A0FC6009D26D5 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3AE1CB54235A0FC6009D26D5 /* MainMenu.xib */; };
+		3AE1CB59235A0FC6009D26D5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE1CB58235A0FC6009D26D5 /* main.m */; };
+		3AE1CB62235A1058009D26D5 /* GameView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE1CB61235A1058009D26D5 /* GameView.m */; };
+		3AE1CB66235A10A5009D26D5 /* PanelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE1CB64235A10A5009D26D5 /* PanelController.m */; };
+		3AE1CB6B235A19CA009D26D5 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AE1CB6A235A19CA009D26D5 /* background.jpg */; };
+		3AE314EB235C6BEA00B3F704 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE314EA235C6BEA00B3F704 /* Card.m */; };
+		3AE314ED235C6DD600B3F704 /* back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AE314EC235C6DD600B3F704 /* back.jpg */; };
+		3AE75F13235B1AD800A1B556 /* Yennefer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AE75F0D235B1AD800A1B556 /* Yennefer.jpg */; };
+		3AE75F14235B1AD800A1B556 /* Eredin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AE75F0E235B1AD800A1B556 /* Eredin.jpg */; };
+		3AE75F15235B1AD800A1B556 /* Ciri.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AE75F0F235B1AD800A1B556 /* Ciri.jpg */; };
+		3AE75F16235B1AD800A1B556 /* Triss.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AE75F10235B1AD800A1B556 /* Triss.jpg */; };
+		3AE75F17235B1AD800A1B556 /* Jaskier.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AE75F11235B1AD800A1B556 /* Jaskier.jpg */; };
+		3AE75F1B235B1B1B00A1B556 /* Controlador.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AE75F1A235B1B1B00A1B556 /* Controlador.m */; };
+		3AE75F1D235B2F4000A1B556 /* Geralt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AE75F1C235B2F4000A1B556 /* Geralt.jpg */; };
+		3AEBF6D02366179800501913 /* Baraja.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AEBF6CF2366179800501913 /* Baraja.m */; };
+		3AEC34C3236F54AD00EBA578 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34BE236F54AD00EBA578 /* play.png */; };
+		3AEC34C4236F54AD00EBA578 /* information.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34BF236F54AD00EBA578 /* information.png */; };
+		3AEC34C5236F54AD00EBA578 /* config.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34C0236F54AD00EBA578 /* config.png */; };
+		3AEC34C6236F54AD00EBA578 /* delete.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34C1236F54AD00EBA578 /* delete.png */; };
+		3AEC34C7236F54AD00EBA578 /* refresh.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34C2236F54AD00EBA578 /* refresh.png */; };
+		3AEC34D0236F54E800EBA578 /* Novigrad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34C8236F54E700EBA578 /* Novigrad.jpg */; };
+		3AEC34D1236F54E800EBA578 /* info.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34C9236F54E700EBA578 /* info.jpg */; };
+		3AEC34D2236F54E800EBA578 /* gameover.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34CA236F54E700EBA578 /* gameover.png */; };
+		3AEC34D3236F54E900EBA578 /* Beauclair.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34CB236F54E800EBA578 /* Beauclair.jpg */; };
+		3AEC34D4236F54E900EBA578 /* win.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34CC236F54E800EBA578 /* win.jpg */; };
+		3AEC34D5236F54E900EBA578 /* KaerMorhen.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34CD236F54E800EBA578 /* KaerMorhen.png */; };
+		3AEC34D6236F54E900EBA578 /* Nilfgaard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34CE236F54E800EBA578 /* Nilfgaard.jpg */; };
+		3AEC34D7236F54E900EBA578 /* Oxenfurt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34CF236F54E800EBA578 /* Oxenfurt.jpg */; };
+		3AEC34D9236F589300EBA578 /* backgroundStart.png in Resources */ = {isa = PBXBuildFile; fileRef = 3AEC34D8236F589300EBA578 /* backgroundStart.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3AA35E0B237844E50012BDBA /* PanelController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PanelController.xib; sourceTree = "<group>"; };
+		3AE1CB4C235A0FC3009D26D5 /* GwentGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GwentGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AE1CB4F235A0FC3009D26D5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3AE1CB50235A0FC3009D26D5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3AE1CB52235A0FC6009D26D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3AE1CB55235A0FC6009D26D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		3AE1CB57235A0FC6009D26D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AE1CB58235A0FC6009D26D5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3AE1CB5A235A0FC6009D26D5 /* GwentGame.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GwentGame.entitlements; sourceTree = "<group>"; };
+		3AE1CB60235A1058009D26D5 /* GameView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameView.h; sourceTree = "<group>"; };
+		3AE1CB61235A1058009D26D5 /* GameView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameView.m; sourceTree = "<group>"; };
+		3AE1CB63235A10A5009D26D5 /* PanelController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PanelController.h; sourceTree = "<group>"; };
+		3AE1CB64235A10A5009D26D5 /* PanelController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PanelController.m; sourceTree = "<group>"; };
+		3AE1CB6A235A19CA009D26D5 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		3AE314E9235C6BEA00B3F704 /* Card.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
+		3AE314EA235C6BEA00B3F704 /* Card.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Card.m; sourceTree = "<group>"; };
+		3AE314EC235C6DD600B3F704 /* back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back.jpg; sourceTree = "<group>"; };
+		3AE75F0D235B1AD800A1B556 /* Yennefer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Yennefer.jpg; sourceTree = "<group>"; };
+		3AE75F0E235B1AD800A1B556 /* Eredin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Eredin.jpg; sourceTree = "<group>"; };
+		3AE75F0F235B1AD800A1B556 /* Ciri.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ciri.jpg; sourceTree = "<group>"; };
+		3AE75F10235B1AD800A1B556 /* Triss.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Triss.jpg; sourceTree = "<group>"; };
+		3AE75F11235B1AD800A1B556 /* Jaskier.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jaskier.jpg; sourceTree = "<group>"; };
+		3AE75F19235B1B1B00A1B556 /* Controlador.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Controlador.h; sourceTree = "<group>"; };
+		3AE75F1A235B1B1B00A1B556 /* Controlador.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Controlador.m; sourceTree = "<group>"; };
+		3AE75F1C235B2F4000A1B556 /* Geralt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Geralt.jpg; sourceTree = "<group>"; };
+		3AEBF6CE2366179800501913 /* Baraja.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Baraja.h; sourceTree = "<group>"; };
+		3AEBF6CF2366179800501913 /* Baraja.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Baraja.m; sourceTree = "<group>"; };
+		3AEC34BE236F54AD00EBA578 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		3AEC34BF236F54AD00EBA578 /* information.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = information.png; sourceTree = "<group>"; };
+		3AEC34C0236F54AD00EBA578 /* config.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = config.png; sourceTree = "<group>"; };
+		3AEC34C1236F54AD00EBA578 /* delete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = delete.png; sourceTree = "<group>"; };
+		3AEC34C2236F54AD00EBA578 /* refresh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = refresh.png; sourceTree = "<group>"; };
+		3AEC34C8236F54E700EBA578 /* Novigrad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Novigrad.jpg; sourceTree = "<group>"; };
+		3AEC34C9236F54E700EBA578 /* info.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = info.jpg; sourceTree = "<group>"; };
+		3AEC34CA236F54E700EBA578 /* gameover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameover.png; sourceTree = "<group>"; };
+		3AEC34CB236F54E800EBA578 /* Beauclair.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beauclair.jpg; sourceTree = "<group>"; };
+		3AEC34CC236F54E800EBA578 /* win.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = win.jpg; sourceTree = "<group>"; };
+		3AEC34CD236F54E800EBA578 /* KaerMorhen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KaerMorhen.png; sourceTree = "<group>"; };
+		3AEC34CE236F54E800EBA578 /* Nilfgaard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nilfgaard.jpg; sourceTree = "<group>"; };
+		3AEC34CF236F54E800EBA578 /* Oxenfurt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Oxenfurt.jpg; sourceTree = "<group>"; };
+		3AEC34D8236F589300EBA578 /* backgroundStart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundStart.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3AE1CB49235A0FC3009D26D5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3AE1CB43235A0FC3009D26D5 = {
+			isa = PBXGroup;
+			children = (
+				3AE1CB4E235A0FC3009D26D5 /* GwentGame */,
+				3AE1CB6C235A19F0009D26D5 /* Imagenes */,
+				3AE1CB4D235A0FC3009D26D5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3AE1CB4D235A0FC3009D26D5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3AE1CB4C235A0FC3009D26D5 /* GwentGame.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3AE1CB4E235A0FC3009D26D5 /* GwentGame */ = {
+			isa = PBXGroup;
+			children = (
+				3AEBF6CE2366179800501913 /* Baraja.h */,
+				3AEBF6CF2366179800501913 /* Baraja.m */,
+				3AE314E9235C6BEA00B3F704 /* Card.h */,
+				3AE314EA235C6BEA00B3F704 /* Card.m */,
+				3AE1CB60235A1058009D26D5 /* GameView.h */,
+				3AE1CB61235A1058009D26D5 /* GameView.m */,
+				3AE1CB54235A0FC6009D26D5 /* MainMenu.xib */,
+				3AE75F19235B1B1B00A1B556 /* Controlador.h */,
+				3AE75F1A235B1B1B00A1B556 /* Controlador.m */,
+				3AA35E0B237844E50012BDBA /* PanelController.xib */,
+				3AE1CB63235A10A5009D26D5 /* PanelController.h */,
+				3AE1CB64235A10A5009D26D5 /* PanelController.m */,
+				3AE1CB57235A0FC6009D26D5 /* Info.plist */,
+				3AE314E8235C6B8E00B3F704 /* Other Files */,
+			);
+			path = GwentGame;
+			sourceTree = "<group>";
+		};
+		3AE1CB6C235A19F0009D26D5 /* Imagenes */ = {
+			isa = PBXGroup;
+			children = (
+				3AEC34D8236F589300EBA578 /* backgroundStart.png */,
+				3AE314EC235C6DD600B3F704 /* back.jpg */,
+				3AE75F0F235B1AD800A1B556 /* Ciri.jpg */,
+				3AE75F0E235B1AD800A1B556 /* Eredin.jpg */,
+				3AE75F11235B1AD800A1B556 /* Jaskier.jpg */,
+				3AE75F10235B1AD800A1B556 /* Triss.jpg */,
+				3AE75F1C235B2F4000A1B556 /* Geralt.jpg */,
+				3AE75F0D235B1AD800A1B556 /* Yennefer.jpg */,
+				3AE1CB6A235A19CA009D26D5 /* background.jpg */,
+				3AEC34C0236F54AD00EBA578 /* config.png */,
+				3AEC34C1236F54AD00EBA578 /* delete.png */,
+				3AEC34BF236F54AD00EBA578 /* information.png */,
+				3AEC34BE236F54AD00EBA578 /* play.png */,
+				3AEC34C2236F54AD00EBA578 /* refresh.png */,
+				3AEC34CA236F54E700EBA578 /* gameover.png */,
+				3AEC34C9236F54E700EBA578 /* info.jpg */,
+				3AEC34CB236F54E800EBA578 /* Beauclair.jpg */,
+				3AEC34CD236F54E800EBA578 /* KaerMorhen.png */,
+				3AEC34CE236F54E800EBA578 /* Nilfgaard.jpg */,
+				3AEC34C8236F54E700EBA578 /* Novigrad.jpg */,
+				3AEC34CF236F54E800EBA578 /* Oxenfurt.jpg */,
+				3AEC34CC236F54E800EBA578 /* win.jpg */,
+			);
+			path = Imagenes;
+			sourceTree = "<group>";
+		};
+		3AE314E8235C6B8E00B3F704 /* Other Files */ = {
+			isa = PBXGroup;
+			children = (
+				3AE1CB58235A0FC6009D26D5 /* main.m */,
+				3AE1CB5A235A0FC6009D26D5 /* GwentGame.entitlements */,
+				3AE1CB52235A0FC6009D26D5 /* Assets.xcassets */,
+				3AE1CB4F235A0FC3009D26D5 /* AppDelegate.h */,
+				3AE1CB50235A0FC3009D26D5 /* AppDelegate.m */,
+			);
+			path = "Other Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3AE1CB4B235A0FC3009D26D5 /* GwentGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3AE1CB5D235A0FC6009D26D5 /* Build configuration list for PBXNativeTarget "GwentGame" */;
+			buildPhases = (
+				3AE1CB48235A0FC3009D26D5 /* Sources */,
+				3AE1CB49235A0FC3009D26D5 /* Frameworks */,
+				3AE1CB4A235A0FC3009D26D5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GwentGame;
+			productName = GwentGame;
+			productReference = 3AE1CB4C235A0FC3009D26D5 /* GwentGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3AE1CB44235A0FC3009D26D5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1030;
+				ORGANIZATIONNAME = "Adrian A. G. Pazos";
+				TargetAttributes = {
+					3AE1CB4B235A0FC3009D26D5 = {
+						CreatedOnToolsVersion = 10.3;
+					};
+				};
+			};
+			buildConfigurationList = 3AE1CB47235A0FC3009D26D5 /* Build configuration list for PBXProject "GwentGame" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3AE1CB43235A0FC3009D26D5;
+			productRefGroup = 3AE1CB4D235A0FC3009D26D5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3AE1CB4B235A0FC3009D26D5 /* GwentGame */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3AE1CB4A235A0FC3009D26D5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AEC34C3236F54AD00EBA578 /* play.png in Resources */,
+				3AE75F1D235B2F4000A1B556 /* Geralt.jpg in Resources */,
+				3AE75F13235B1AD800A1B556 /* Yennefer.jpg in Resources */,
+				3AEC34D4236F54E900EBA578 /* win.jpg in Resources */,
+				3AEC34D6236F54E900EBA578 /* Nilfgaard.jpg in Resources */,
+				3AEC34D0236F54E800EBA578 /* Novigrad.jpg in Resources */,
+				3AEC34D7236F54E900EBA578 /* Oxenfurt.jpg in Resources */,
+				3AE1CB53235A0FC6009D26D5 /* Assets.xcassets in Resources */,
+				3AE75F14235B1AD800A1B556 /* Eredin.jpg in Resources */,
+				3AEC34C6236F54AD00EBA578 /* delete.png in Resources */,
+				3AEC34D2236F54E800EBA578 /* gameover.png in Resources */,
+				3AEC34D9236F589300EBA578 /* backgroundStart.png in Resources */,
+				3AEC34C7236F54AD00EBA578 /* refresh.png in Resources */,
+				3AE75F15235B1AD800A1B556 /* Ciri.jpg in Resources */,
+				3AEC34C5236F54AD00EBA578 /* config.png in Resources */,
+				3AE75F16235B1AD800A1B556 /* Triss.jpg in Resources */,
+				3AEC34D3236F54E900EBA578 /* Beauclair.jpg in Resources */,
+				3AEC34C4236F54AD00EBA578 /* information.png in Resources */,
+				3AEC34D1236F54E800EBA578 /* info.jpg in Resources */,
+				3AA35E0C237844E50012BDBA /* PanelController.xib in Resources */,
+				3AE314ED235C6DD600B3F704 /* back.jpg in Resources */,
+				3AE75F17235B1AD800A1B556 /* Jaskier.jpg in Resources */,
+				3AE1CB56235A0FC6009D26D5 /* MainMenu.xib in Resources */,
+				3AE1CB6B235A19CA009D26D5 /* background.jpg in Resources */,
+				3AEC34D5236F54E900EBA578 /* KaerMorhen.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3AE1CB48235A0FC3009D26D5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AE1CB66235A10A5009D26D5 /* PanelController.m in Sources */,
+				3AE75F1B235B1B1B00A1B556 /* Controlador.m in Sources */,
+				3AEBF6D02366179800501913 /* Baraja.m in Sources */,
+				3AE1CB62235A1058009D26D5 /* GameView.m in Sources */,
+				3AE1CB59235A0FC6009D26D5 /* main.m in Sources */,
+				3AE1CB51235A0FC3009D26D5 /* AppDelegate.m in Sources */,
+				3AE314EB235C6BEA00B3F704 /* Card.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3AE1CB54235A0FC6009D26D5 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3AE1CB55235A0FC6009D26D5 /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3AE1CB5B235A0FC6009D26D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		3AE1CB5C235A0FC6009D26D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		3AE1CB5E235A0FC6009D26D5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "GwentGame/Other Files/GwentGame.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = GwentGame/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = aagpazos.GwentGame;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3AE1CB5F235A0FC6009D26D5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "GwentGame/Other Files/GwentGame.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = GwentGame/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = aagpazos.GwentGame;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3AE1CB47235A0FC3009D26D5 /* Build configuration list for PBXProject "GwentGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AE1CB5B235A0FC6009D26D5 /* Debug */,
+				3AE1CB5C235A0FC6009D26D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3AE1CB5D235A0FC6009D26D5 /* Build configuration list for PBXNativeTarget "GwentGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AE1CB5E235A0FC6009D26D5 /* Debug */,
+				3AE1CB5F235A0FC6009D26D5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3AE1CB44235A0FC3009D26D5 /* Project object */;
+}

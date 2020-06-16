@@ -1,0 +1,92 @@
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase.csprojAssemblyReference.cache
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\MainWindow.g.cs
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\Preferencias.g.cs
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\App.g.cs
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase_Content.g.cs
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase_MarkupCompile.cache
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase_MarkupCompile.lref
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\VersionVSClase.exe.config
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\VersionVSClase.exe
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\VersionVSClase.pdb
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\MainWindow.baml
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\Preferencias.baml
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase.g.resources
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase.Properties.Resources.resources
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase.csproj.GenerateResource.cache
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase.csproj.CoreCompileInputs.cache
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase.exe
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\obj\Debug\VersionVSClase.pdb
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\logo.ico
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\back.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\background.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\background2.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\backgroundStart.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Beauclair.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Ciri.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\config.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\delete.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Eredin.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\gameover.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Geralt.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\info.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\information.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Jaskier.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\KaerMorhen.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\logo.ico
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\logo.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\music.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Nilfgaard.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Novigrad.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Oxenfurt.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\play.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\refresh.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\silence.png
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Triss.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\win.jpg
+C:\Users\pgina27\Desktop\PracticaW\VersionVSClase\VersionVSClase\bin\Debug\imagenes\Yennefer.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\MainWindow.g.cs
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\Preferencias.g.cs
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\App.g.cs
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase_Content.g.cs
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase_MarkupCompile.cache
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase_MarkupCompile.lref
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase.exe
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase.pdb
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\logo.ico
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\back.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\background.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\background2.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\backgroundStart.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Beauclair.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Ciri.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\config.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\delete.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Eredin.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\gameover.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Geralt.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\info.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\information.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Jaskier.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\KaerMorhen.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\logo.ico
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\logo.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\music.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Nilfgaard.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Novigrad.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Oxenfurt.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\play.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\refresh.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\silence.png
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Triss.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\win.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\imagenes\Yennefer.jpg
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\VersionVSClase.exe.config
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\VersionVSClase.exe
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\VersionVSClase.pdb
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\MainWindow.baml
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\Preferencias.baml
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase.g.resources
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase.Properties.Resources.resources
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase.csproj.GenerateResource.cache
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\bin\Debug\Soundtrack.mp3
+C:\Users\adri_\Google Drive\CARRERA\3ª CURSO\1º CUATRIMESTRE\INTERFACES GRAFICAS\Windows\0. Practica Final\Version05_12\VersionVSClase\obj\Debug\VersionVSClase.csprojAssemblyReference.cache
