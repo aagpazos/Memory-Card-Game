@@ -1,4 +1,4 @@
-# Memory-Card-Game
+# Memory Card Game
 
 - Proyecto realizado entre Octubre y Diciembre 2019
 - Para la asignatura Interfaces Graficas de Usuario de Ingeniería Informatica de la Universidad de Salamanca
